@@ -1,0 +1,5 @@
+2025-06-29 10:57:17, TrackID: 1, Class: motorcycle, Direction: IN
+2025-06-29 10:57:20, TrackID: 2, Class: motorcycle, Direction: IN
+2025-06-29 10:57:23, TrackID: 6, Class: motorcycle, Direction: IN
+2025-06-29 10:57:28, TrackID: 21, Class: motorcycle, Direction: IN
+2025-06-29 10:57:31, TrackID: 39, Class: motorcycle, Direction: IN
